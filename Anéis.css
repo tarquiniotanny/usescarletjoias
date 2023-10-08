@@ -1,0 +1,45 @@
+body {
+
+    color:white;
+    background-color: black;
+    font-family: monospace;
+    font-size:large;
+
+}
+
+img {
+    border-radius: 50%;
+    border: 5px solid rgba(202, 192, 192, 0.61);
+}
+
+
+h3{
+
+    color:rgba(202, 192, 192, 0.61);
+}
+
+.center {
+    text-align: center;
+}
+
+ul {
+    
+    padding: 20px;
+    list-style-type: none;
+}
+button {
+    width: 80px;
+    height: 30px;
+    font-family:sans-serif;
+    font-size:medium;
+    border:0cm;
+    border-radius: 50px;
+    background-color: rgb(102, 99, 99);
+    color:white;
+    cursor:pointer;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: auto;
+
+
+}
